@@ -1,0 +1,95 @@
+ERROR: ld.so: object '/home/deck/.local/share/Steam/ubuntu12_64/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS64): ignored.
+ERROR: ld.so: object '/home/deck/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/home/deck/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/home/deck/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/home/deck/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/home/deck/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/home/deck/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+:: Synchronizing package databases...
+ jupiter-rel downloading...
+ holo-rel downloading...
+ core-rel downloading...
+ extra-rel downloading...
+ community-rel downloading...
+ multilib-rel downloading...
+ chaotic-aur downloading...
+warning: podman-4.2.1-1 is up to date -- reinstalling
+resolving dependencies...
+looking for conflicting packages...
+
+Packages (1) podman-4.2.1-1
+
+Total Installed Size:  67.28 MiB
+Net Upgrade Size:       0.00 MiB
+
+:: Proceed with installation? [Y/n] 
+checking keyring...
+checking package integrity...
+loading package files...
+checking for file conflicts...
+checking available disk space...
+:: Processing package changes...
+reinstalling podman...
+:: Running post-transaction hooks...
+(1/3) Reloading system manager configuration...
+(2/3) Creating temporary files...
+/usr/lib/tmpfiles.d/steamos.conf:24: Duplicate line for path "/var/empty", ignoring.
+/usr/lib/tmpfiles.d/tmp.conf:12: Duplicate line for path "/var/tmp", ignoring.
+/usr/lib/tmpfiles.d/var.conf:19: Duplicate line for path "/var/cache", ignoring.
+(3/3) Arming ConditionNeedsUpdate...
+Package gst-plugins-good is already installed, Skipping install
+Package gst-plugins-bad is already installed, Skipping install
+Package gst-plugins-ugly is already installed, Skipping install
+Package gstreamer-vaapi is already installed, Skipping install
+Package gst-plugin-pipewire is already installed, Skipping install
+/home/deck/steam-shortcuts/out/stream-tool
+ERROR: ld.so: object '/home/deck/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/home/deck/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+Cannot find 'stop-capture-screen.sh' in path '/home/deck/steam-shortcuts/out/stream-tool'
+Running ./stop-capture-screen.out
+ERROR: ld.so: object '/home/deck/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/home/deck/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/home/deck/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/home/deck/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/home/deck/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+usermod: group 'docker' does not exist
+Trying to pull docker.io/alfg/nginx-rtmp:latest...
+Getting image source signatures
+Copying blob sha256:f1d974888e5edbc92556ad7bda7d2b0db7a371375b2cc0d0ee78659b5beb7f32
+Copying blob sha256:7d60e766d5fdff6a2ffbbae95e48fc0f7db219eeb98ac522eeca0cd093b1d5f0
+Copying blob sha256:13fcd85631ea181f23810ca468f12d67b7541eec5253ecae49c5486eb6a67e98
+Copying blob sha256:530afca65e2ea04227630ae746e0c85b2bd1a179379cbf2b6501b49c4cab2ccc
+Copying blob sha256:c20ba4fc8a2cd6780020d8b7da84909d0ff0f144400511df5f8d5e5e10dd14eb
+Copying blob sha256:58b7d31a17109868c8f0437fecdee903a50af809187afb98d689c462954ede44
+Copying blob sha256:3cf0b843d5246ea3738ada6a6647b7740257bff08a3aa3c1d634354bc966b3be
+Copying blob sha256:c99ac4327a57c25a7950abf512859884ee8cf2496059ea0be0974e3700339a05
+Copying blob sha256:6a0e61809b5b02eeb761e4572d1800d35a46110f8d47ff80dd3cb736dfb7338d
+Copying config sha256:fe9002effde28797931563f042679ea1e505026f90ddbd737ba9cc3d425f7b3a
+Writing manifest to image destination
+Storing signatures
+fe9002effde28797931563f042679ea1e505026f90ddbd737ba9cc3d425f7b3a
+9215a7393005
+9215a739300581a41e621f5654b520262d58b2e8b71bffe705f85398ec870f15
+ERROR: ld.so: object '/home/deck/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+cat: /tmp/screen-copy-gstreamer.pid: No such file or directory
+ERROR: ld.so: object '/home/deck/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+cat: /tmp/screen-copy-ffmpeg.pid: No such file or directory
+Exited ./stop-capture-screen.out
+groupadd: group 'podman' already exists
+Trying to pull docker.io/alfg/nginx-rtmp:latest...
+Getting image source signatures
+Copying blob sha256:f1d974888e5edbc92556ad7bda7d2b0db7a371375b2cc0d0ee78659b5beb7f32
+Copying blob sha256:530afca65e2ea04227630ae746e0c85b2bd1a179379cbf2b6501b49c4cab2ccc
+Copying blob sha256:7d60e766d5fdff6a2ffbbae95e48fc0f7db219eeb98ac522eeca0cd093b1d5f0
+Copying blob sha256:c20ba4fc8a2cd6780020d8b7da84909d0ff0f144400511df5f8d5e5e10dd14eb
+Copying blob sha256:58b7d31a17109868c8f0437fecdee903a50af809187afb98d689c462954ede44
+Copying blob sha256:13fcd85631ea181f23810ca468f12d67b7541eec5253ecae49c5486eb6a67e98
+Copying blob sha256:c99ac4327a57c25a7950abf512859884ee8cf2496059ea0be0974e3700339a05
+Copying blob sha256:3cf0b843d5246ea3738ada6a6647b7740257bff08a3aa3c1d634354bc966b3be
+Copying blob sha256:6a0e61809b5b02eeb761e4572d1800d35a46110f8d47ff80dd3cb736dfb7338d
+Copying config sha256:fe9002effde28797931563f042679ea1e505026f90ddbd737ba9cc3d425f7b3a
+Writing manifest to image destination
+Storing signatures
+fe9002effde28797931563f042679ea1e505026f90ddbd737ba9cc3d425f7b3a
+b86ebb1ff415048b3d31ea04ee239b69e2390757966b36c7dcb9401e3a79b380
+ERROR: ld.so: object '/home/deck/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
